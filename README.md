@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 About Me: 
-I am a person of believe that technology can transform lives of millions and bring about a positive change in the world.
-Strong in programming and problem-solving skills. Skilled in PYTHON,MACHINE LEARNING,SQL and CLOUD COMPUTING.
-Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 
+🚀 I’m a software developer passionate about harnessing technology to make a meaningful impact, transforming ideas into solutions that enhance people’s lives.
 
-- 🌱 I’m currently a student of Bachelor's of Information Technology and expected to graduate by 2022
-- 👯 I’m looking to collaborate on Machine Learning or VR Projects
-- 💬 Ask me about technologies and projects
-- 📫 How to reach me: rane.komalsandy@gmail.com
+💻 With expertise in Java, Python, SQL, and Cloud Computing (Azure, AWS), I specialize in developing scalable applications and innovative software solutions.
 
+👥 Open to collaborating on projects in Cloud Computing, Web Development, or assistive tech applications to further explore and advance the industry.
+
+🌱 Currently pursuing my Master’s in Software Design and continuously exploring emerging tech to stay ahead of the curve.
+
+📫 Feel free to reach out: rane.komalsandy@gmail.com
 
 CONTACT ME: https://www.linkedin.com/in/komal-r-0b914617b/
 

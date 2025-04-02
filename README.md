@@ -14,5 +14,5 @@ About Me:
 
 CONTACT ME: https://www.linkedin.com/in/komal-r-0b914617b/
 
-MY WEBSITE: https://ranekomalsandy.wixsite.com/komalrane
+MY WEBSITE: https://komal-30.github.io/
 

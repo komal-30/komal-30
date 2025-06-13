@@ -34,9 +34,13 @@ I am a **Certified Software Engineer** with over **3 years of experience** in ba
 - Automated **Java unit test cases** using **Generative AI models (Hugging Face, Langchain)**.
 - Guided junior DevOps teams to implement **CI/CD pipelines, Jenkins, and Terraform**.
 
-### **Freelance Work (Ongoing)**
+### **Freelance Work (2021 - Ongoing)**
 - Built **backend services and REST APIs** for a education startup.
 - Integrated **AI models and event-driven workflows** into applications.
+
+### **Consulting And Teaching (2020 - Ongoing)**
+-Technical trainer and consultant 
+-Technical instructor at Udemy 
 
 ---
 

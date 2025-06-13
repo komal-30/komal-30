@@ -34,7 +34,7 @@ I am a **Certified Software Engineer** with over **3 years of experience** in ba
 - Automated **Java unit test cases** using **Generative AI models (Hugging Face, Langchain)**.
 - Guided junior DevOps teams to implement **CI/CD pipelines, Jenkins, and Terraform**.
 
-### **Freelance Work (2021 - Ongoing)**
+### **Freelance Work (2024 - Ongoing)**
 - Built **backend services and REST APIs** for a education startup.
 - Integrated **AI models and event-driven workflows** into applications.
 
@@ -61,5 +61,6 @@ I am a **Certified Software Engineer** with over **3 years of experience** in ba
 💌 Email: [komalrane.dev@gmail.com](mailto:komalrane.dev@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/komal-r-0b914617b/](https://www.linkedin.com/in/komal-r-0b914617b/)  
 👨‍💻 GitHub: [github.com/komal-30](https://github.com/komal-30)  
+📌 Website: [https://komal-30.github.io/](https://komal-30.github.io/)
 
 🚀 Feel free to check out my repositories and projects! Looking forward to collaborating and connecting! 😃

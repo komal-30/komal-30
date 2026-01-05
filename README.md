@@ -133,25 +133,35 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 
 ## 🏆 Certifications
 
-- **Oracle Certified Java Developer**
-- **Azure AZ 900 Certified**
-- **Azure DevOps Engineer AZ-400**
-- **Azure Artificial Intelligence Associate AI 102**
-- **Azure Developer Associate AZ 204**
-- **AWS Certified Cloud Practitioner**
-- **AWS Certified Developer Associate**
-- **HackerRank Certified Python Developer**
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/575A952C2A5BE121?sharingId=7567CB4D37DA51DD"> <img src="Azure Developer Associate Badge.png" height="50" alt="Azure Developer Associate">
+    
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/F6604BF1385B2CF2?sharingId=7567CB4D37DA51DD">
+    <img src="Azure AI Engineer Associate Badge.png" height="50" alt="Azure AI Engineer Associate">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/96449C30D01BBFDA?sharingId=7567CB4D37DA51DD">
+    <img src="Azure Data Scientist Associate Badge.png" height="50" alt="Azure Data Scientist Associate">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/8B6894AD011EDD07?sharingId=7567CB4D37DA51DD">
+    <img src="DevOps Engineer Expert Badge.webp" height="50" alt="DevOps Engineer Expert">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/71ECE846E04B443E?sharingId=7567CB4D37DA51DD">
+    <img src="Azure Administrator Associate Badge.png" height="50" alt="Azure Administrator Associate">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/KomalSandeepRane-5355/8646B3461B87B5B5?sharingId=7567CB4D37DA51DD">
+    <img src="Azure Fundamentals Badge.png" height="50" alt="Azure Fundamentals">
+  </a>
+</p>
+
 
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komal-30&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=komal-30&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
+
 
 ---
 

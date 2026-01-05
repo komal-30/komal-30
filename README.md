@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Komal Rane
 
-🚀 **Certified Software Engineer | Cloud Practitioner | DevOps Enthusiast**
+🚀 **Certified Software Engineer | Gen-AI Enabler | DevOps Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/komal-r-0b914617b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/komal-rane-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/komal-30)
 [![Email](https://img.shields.io/badge/Email-Primary-red?logo=gmail)](mailto:komalrane.dev@gmail.com)
 [![Email](https://img.shields.io/badge/Email-Secondary-orange?logo=gmail)](mailto:rane.komalsandy@gmail.com)
@@ -20,30 +20,30 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 ---
 
 ## 🔧 Key Skills
-- **Programming:** Java, Python, SQL
-- **Databases:** MySQL, MongoDB, DynamoDB, Amazon RDS
-- **Cloud Platforms:** AWS (2x Certified), Azure (1x Certified)
-- **DevOps & Tools:** Docker, Kubernetes, Ansible, Jenkins, Git, CI/CD Pipelines
-- **Agile Tools:** Scrum, JIRA, ServiceNow, Trello
-- **Test Automation:** JMeter, TestNG, API Testing, Swagger, JUnit/Mockito
-- **Monitoring & Analytics:** Prometheus, Grafana, ELK Stack
+- **Programming:** Java (Core Java, OOP, Collections, Concurrency, Streams), Python, Bash Scripting, SQL
+- **Databases:** MySQL, Redis, Hibernate (ORM), Spring Data JPA
+- **Backend & Frameworks:** Spring Boot, Spring MVC, Spring Security, Microservices Architecture, RESTful & SOAP Web Services, Kafka
+- **Cloud Platforms:** AWS (EC2, S3, ECR, EKS, ELB, IAM, VPC, CloudWatch), Microsoft Azure (Functions, Web Apps, Monitor)
+- **DevOps & Tools:** Docker, Kubernetes, Jenkins, Git, GitHub, Maven
+- **Agile Tools & Practices:** Scrum, Jira, Pair Programming, Sprint Planning, Code Reviews, Cross-Functional Collaboration
+- **Test Automation & Engineering Practices:** Unit & Integration Testing (JUnit), Test-Driven Development (TDD), Code Quality & Coverage (SonarQube, JaCoCo), Secure & Performant Application Development
+- **Monitoring & Analytics:** Prometheus, Grafana, ELK Stack, Production Issue Troubleshooting, Root Cause Analysis (RCA)
 
 ---
 
 ## 💼 Work Experience
 
-### **Stellantis Group** | Cloud & DevOps Engineer (Jan 2024 – Aug 2024)
+### **Stellantis Group** | Full Stack Developer (January 2024 – August 2024)
 - Built CI/CD pipelines with **Jenkins, Azure DevOps, and AWS**; automated deployments for multiple microservices.  
 - Containerized apps with **Docker/Kubernetes (AKS)** and managed **Azure services**, improving scalability and reducing costs.  
 
-### **Stellantis Group** | Backend Java Developer (July 2022 – Jan 2024)
+### **Stellantis Group** | Backend Java Developer (July 2022 – January 2024)
 - Developed **high-performance Java Spring Boot APIs** with Redis and async processing, improving response time by 40%.  
 - Designed resilient microservices with **JWT/OAuth2**, tuned JVM and concurrency models, reducing memory overhead.  
 
-### **Software Engineer Intern** | Tata Consultancy Limited (May 2022 – July 2022)
+### **Software Engineer Intern** | Tata Consultancy Limited (March 2022 – May 2022)
 - Implemented **CI/CD pipelines** and containerized applications with **Docker/Kubernetes**.  
 - Monitored system performance using **Prometheus and Grafana**, optimizing resource utilization.  
-
 
 ---
 
@@ -54,9 +54,14 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 ---
 
 ## 🏆 Certifications
-- **AWS Certified Cloud Practitioner**
-- **AWS Certified Developer – Associate**
+
+- **Oracle Certified Java Developer**
 - **Azure AZ 900 Certified**
+- **Azure DevOps Engineer AZ-400**
+- **Azure Artificial Intelligence Associate AI 102**
+- **Azure Developer Associate AZ 204**
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified Developer Associate**
 - **HackerRank Certified Python Developer**
 
 ---
@@ -74,8 +79,8 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 
 ## 📫 Let's Connect!
 💌 Email: [komalrane.dev@gmail.com](mailto:komalrane.dev@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/komal-r-0b914617b/](https://www.linkedin.com/in/komal-r-0b914617b/)  
+🔗 LinkedIn: [linkedin.com/in/komal-r-0b914617b/](https://www.linkedin.com/in/komal-rane-dev/)  
 👨‍💻 GitHub: [github.com/komal-30](https://github.com/komal-30)  
-📌 Website: [https://komal-30.github.io/](https://komal-30.github.io/)
+📌 Website: [https://komal-30.github.io/](https://kokotech.in/)
 
 🚀 Feel free to check out my repositories and projects! Looking forward to collaborating and connecting! 😃

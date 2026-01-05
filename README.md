@@ -20,14 +20,111 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 ---
 
 ## 🔧 Key Skills
-- **Programming:** Java (Core Java, OOP, Collections, Concurrency, Streams), Python, Bash Scripting, SQL
-- **Databases:** MySQL, Redis, Hibernate (ORM), Spring Data JPA
-- **Backend & Frameworks:** Spring Boot, Spring MVC, Spring Security, Microservices Architecture, RESTful & SOAP Web Services, Kafka
-- **Cloud Platforms:** AWS (EC2, S3, ECR, EKS, ELB, IAM, VPC, CloudWatch), Microsoft Azure (Functions, Web Apps, Monitor)
+- **Programming:** Java, Python, Bash, SQL
+- **Databases:** MySQL, Redis, Hibernate, Spring Data JPA
+- **Backend & Frameworks:** Spring Boot, Spring MVC, Spring Security, Microservices, REST, SOAP, Kafka
+- **Cloud Platforms:** AWS, Azure
 - **DevOps & Tools:** Docker, Kubernetes, Jenkins, Git, GitHub, Maven
-- **Agile Tools & Practices:** Scrum, Jira, Pair Programming, Sprint Planning, Code Reviews, Cross-Functional Collaboration
-- **Test Automation & Engineering Practices:** Unit & Integration Testing (JUnit), Test-Driven Development (TDD), Code Quality & Coverage (SonarQube, JaCoCo), Secure & Performant Application Development
-- **Monitoring & Analytics:** Prometheus, Grafana, ELK Stack, Production Issue Troubleshooting, Root Cause Analysis (RCA)
+- **Agile & Practices:** Scrum, Jira, Pair Programming, Sprint Planning, Code Reviews
+- **Testing & QA:** JUnit, TDD, SonarQube, JaCoCo
+- **Monitoring & Analytics:** Prometheus, Grafana, ELK, RCA
+
+<p>
+  <!-- Programming -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> 
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sql" width="50" height="50"/> 
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/> 
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="50" height="50"/> 
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Hibernate_logo.png" alt="hibernate" width="50" height="50"/> 
+  </a>
+
+  <!-- Backend & Frameworks -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="50" height="50"/> 
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/> 
+  </a>
+
+  <!-- Cloud Platforms -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> 
+  </a>
+
+  <!-- DevOps & Tools -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> 
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/> 
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/> 
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="50" height="50"/> 
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/github-actions-1.svg" alt="github actions" width="50" height="50"/> 
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/> 
+  </a>
+
+  <!-- Testing & QA -->
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="junit" width="50" height="50"/> 
+  </a>
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="50" height="50"/> 
+  </a>
+
+  <!-- Monitoring & Analytics -->
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50"/> 
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/> 
+  </a>
+  <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="50" height="50"/> 
+  </a>
+
+  <!-- Agile Tools -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/> 
+  </a>
+</p>
+
 
 ---
 

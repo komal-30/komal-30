@@ -40,9 +40,6 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> 
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sql" width="50" height="50"/> 
-  </a>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -51,9 +48,7 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="50" height="50"/> 
   </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Hibernate_logo.png" alt="hibernate" width="50" height="50"/> 
-  </a>
+
 
   <!-- Backend & Frameworks -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
@@ -84,28 +79,14 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/> 
-  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/> 
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="50" height="50"/> 
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/github-actions-1.svg" alt="github actions" width="50" height="50"/> 
-  </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/> 
-  </a>
-
-  <!-- Testing & QA -->
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="junit" width="50" height="50"/> 
-  </a>
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="50" height="50"/> 
   </a>
 
   <!-- Monitoring & Analytics -->

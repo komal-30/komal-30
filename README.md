@@ -167,8 +167,8 @@ I'm a **Certified Software Engineer** with over **3 years of experience** in bac
 
 ## 📫 Let's Connect!
 💌 Email: [komalrane.dev@gmail.com](mailto:komalrane.dev@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/komal-r-0b914617b/](https://www.linkedin.com/in/komal-rane-dev/)  
+🔗 LinkedIn: [linkedin.com/in/komal-rane-dev/](https://www.linkedin.com/in/komal-rane-dev/)  
 👨‍💻 GitHub: [github.com/komal-30](https://github.com/komal-30)  
-📌 Website: [https://komal-30.github.io/](https://kokotech.in/)
+📌 Website: [https://kokotech.in/](https://kokotech.in/)
 
 🚀 Feel free to check out my repositories and projects! Looking forward to collaborating and connecting! 😃
